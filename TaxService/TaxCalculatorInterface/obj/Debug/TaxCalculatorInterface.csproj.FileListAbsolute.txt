@@ -1,0 +1,6 @@
+C:\Users\mallen\source\repos\TaxService\TaxCalculatorInterface\bin\Debug\TaxCalculatorInterface.dll
+C:\Users\mallen\source\repos\TaxService\TaxCalculatorInterface\bin\Debug\TaxCalculatorInterface.pdb
+C:\Users\mallen\source\repos\TaxService\TaxCalculatorInterface\obj\Debug\TaxCalculatorInterface.csproj.CoreCompileInputs.cache
+C:\Users\mallen\source\repos\TaxService\TaxCalculatorInterface\obj\Debug\TaxCalculatorInterface.dll
+C:\Users\mallen\source\repos\TaxService\TaxCalculatorInterface\obj\Debug\TaxCalculatorInterface.pdb
+C:\Users\mallen\source\repos\TaxService\TaxCalculatorInterface\obj\Debug\TaxCalculatorInterface.csprojAssemblyReference.cache
